@@ -7,6 +7,8 @@ para ejecutar este proyecto se debe correr el servidor corriendo el archivo inde
 
 ## imagen de destino
 ![alt text](https://i.ibb.co/DbcNTbm/1.jpg)
+
 este soy yo
 
 ## resultado 
+![alt text](https://i.ibb.co/sF0J6Wz/mosaico2.png)
