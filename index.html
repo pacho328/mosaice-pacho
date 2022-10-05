@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.min.js"></script>
+    <script src="popmos.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="./image-picker/image-picker.min.js"></script>
+    <link rel="stylesheet" href="./image-picker/image-picker.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pacho328</title>
+</head>
+<body>
+    <div class="container-sms" >
+        <select class="image-picker masonry show-html">
+            <option value=""></option>
+            <option data-img-src="imagDestino/1.jpg" value="1" data-img-class="classper">me</option>
+        </select>
+    </div>
+</body>
+<script>
+    $("select").imagepicker()
+</script>
+</html>
